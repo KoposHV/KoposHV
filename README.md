@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">un desarrolador Web de Madrid</h3>
+<h3 align="center">Un Desarrolador Web FullStack de Madrid</h3>
 
 - I am currently learning **Javascript ; html5 , css3**
 
