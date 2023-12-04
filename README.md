@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">Un Desarrolador Web FullStack de Madrid(con discapcidad)</h3>
 
-- I have learned to program with **Javascript ; html5 , css3, React .texting .**, I have learned backend with Node.JS , Mongo DB
+- I have learned to program with **Javascript ; html5 , css3, React.**, I have learned backend with Node.JS , Mongo DB
 
 - 📫 How to reach me **carlosh.viveros12@gmail.com**
 
