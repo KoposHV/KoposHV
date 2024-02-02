@@ -2,7 +2,6 @@
 <h3 align="center"> Desarrolador Web FullStack de Madrid(con discapcidad)</h3>
 
 - I have learned to program with **Javascript ; html5 , css3, React , Vite.**, I have learned backend with Node.JS , Mongo DB , Express , Mongoose.
-
 - 📫 How to reach me **carlosh.viveros12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
